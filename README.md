@@ -6,6 +6,9 @@
 [![Built with React](https://img.shields.io/badge/React-19-blue)](https://react.dev)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Google%20Gemini-orange)](https://ai.google.dev)
 
+**🚀 [Try it live: https://cash1ens.netlify.app](https://cash1ens.netlify.app)**
+
+
 ## ✨ Features
 
 - 📊 **Instant Analysis** - Upload CSV/PDF bank statements, get insights in seconds
